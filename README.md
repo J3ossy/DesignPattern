@@ -22,7 +22,7 @@ A design pattern is a general solution to certain kinds of common design issues 
 - Behavioral patterns
 - Structural patterns
 
-## Creational Pattern
+## Creational Patterns
 
 A creational design pattern is any design pattern that concerns how objects in your program are created. These patterns can help you manage the creation of objects as your code becomes increasingly complex.
 
@@ -64,5 +64,18 @@ A creational design pattern is any design pattern that concerns how objects in y
 
 ```Code example:``` [Builder](/src/CreationalPatterns/Builder/UdacisearchClientExample/)
 
+## Behavioral Patterns
 
+Behavioral Patterns are concerned with providing solutions regarding object interaction - how they communicate, how are some dependent on others, and how to segregate them to be both dependent and independent and provide both flexibility and testing capabilities.
+
+
+### Strategy Pattern
+
+*What is the Strategy Pattern?*
+
+- You define an interface to represent a kind of task or problem.
+- Each concrete implementation defines a different "strategy" for solving the task.
+- The strategies can be swapped for each other because callers code against the interface.
+
+```Code example:``` [Builder](/src/BehavioralPatterns/StrategyPattern/)
 
