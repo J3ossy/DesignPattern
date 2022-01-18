@@ -77,5 +77,5 @@ Behavioral Patterns are concerned with providing solutions regarding object inte
 - Each concrete implementation defines a different "strategy" for solving the task.
 - The strategies can be swapped for each other because callers code against the interface.
 
-```Code example:``` [Builder](/src/BehavioralPatterns/StrategyPattern/)
+```Code example:``` [Strategy](/src/BehavioralPatterns/StrategyPattern/)
 
