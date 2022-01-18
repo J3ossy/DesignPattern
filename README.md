@@ -1,4 +1,4 @@
-# DesignPattern Cheatsheet
+# Design Pattern Cheatsheet
 
 incomplete, will be extended continuously
 
