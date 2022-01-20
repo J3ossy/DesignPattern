@@ -103,6 +103,12 @@ You can use an adapter whenever you need to transform one API or interface into 
 
 Adapters typically "wrap" an existing interface to adapt it to a different interface. One common use of the adapter pattern is to wrap legacy APIs, but adapters can be used with all sorts of APIs.
 
+```Code example:``` [Adapter](/src/StructuralPatterns/AdapterPattern/CarExample)
+
+```Code example:``` [Adapter](/src/StructuralPatterns/AdapterPattern/ShardsExample)
+
 ### Decorator Pattern
 
 Decorator (also known as Wrapper) is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
+
+```Code example:``` [Decorator](/src/StructuralPatterns/DecoratorPattern/)
