@@ -90,3 +90,19 @@ Behavioral Patterns are concerned with providing solutions regarding object inte
 - Callers fill in the blanks by extending the base class and overriding the placeholder methods.
 
 ```Code example:``` [Template Method](/src/BehavioralPatterns/TemplateMethodPattern/)
+
+## Structural Patterns
+
+A structural design pattern is a design pattern that involve how objects fit together to form the structure of the software.
+
+### Adapter Pattern
+
+*When Do We Use the Adapter Pattern?*
+
+You can use an adapter whenever you need to transform one API or interface into another. Adapters allow classes with otherwise incompatible interfaces to work together!
+
+Adapters typically "wrap" an existing interface to adapt it to a different interface. One common use of the adapter pattern is to wrap legacy APIs, but adapters can be used with all sorts of APIs.
+
+### Decorator Pattern
+
+Decorator (also known as Wrapper) is a structural design pattern that lets you attach new behaviors to objects by placing these objects inside special wrapper objects that contain the behaviors.
